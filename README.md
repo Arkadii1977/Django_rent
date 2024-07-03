@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 ```
-https://github.com/Arkadii1977/bank.git
+https://github.com/Arkadii1977/Django_rent.git
 ```
 2. Установите Poetry как интерпритатор
 3. Запустите команду ``` python manage.py runserver ```
